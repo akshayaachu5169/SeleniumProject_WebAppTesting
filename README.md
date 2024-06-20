@@ -1,2 +1,4 @@
-# DDD-FrameWork-Project1
-This project includes detailed steps and functions of how does an actual project is done  
+# SeleniumProject_WebAppTesting
+
+This project includes detailed steps and functions of how to test a web application,
+which is simialr to an actual project.
